@@ -1,0 +1,3 @@
+This program was written by Dan Rabinowitz, and can be treated as an open source program.
+
+This program includes two C++ classes that combine to form a binary search tree. The methods in the binary search tree use both iterative algorithms as well as recursive algorithms depending on what the instance calls for.
